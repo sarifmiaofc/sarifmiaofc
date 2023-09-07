@@ -7,7 +7,7 @@
 
 ## Bio
 
-I am a **Frontend web developer**, studying **Computer science technology**  at [UU](https://uttarauniversity.edu.bd/), Bangladesh. Currenty, I am working as a **Junior Web Designger** in [Noize Jeans](https://www.noize Jeans.com/). I have interest in **Web Development**, **UI/UX design** and reseach on **Human–computer interaction**.
+I am a **Frontend web developer**, studying **Computer science technology**  at [UU](https://uttarauniversity.edu.bd/), Bangladesh. Currenty, I am working as a **Junior Web Designger** in [Noize Jeans](https://www.noize Jeans.com) I have interest in **Web Development**, **UI/UX design** and reseach on **Human–computer interaction**.
 
 I like finding new ideas to solve a real life problem. Despite any circumstances, I work
 hard and learn anything that is needed to accomplish a task.
